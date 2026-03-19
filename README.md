@@ -92,7 +92,7 @@ MZ-2000_SD+偽RAMFILE複合ボードを参照してください。
 https://github.com/yanataka60/MZ-2000_SD-NiseRamFile-?tab=readme-ov-file#%E6%BC%A2%E5%AD%97%E8%BE%9E%E6%9B%B8rom-mz-1r13
 
 ### FONT変更機能
-MZ-2000_SD+偽RAMFILE複合ボードを参照してください。
+MZ-2000_SD+偽RAMFILE複合ボードを参照してください。FONTカラー設定は出来ません。
 
 https://github.com/yanataka60/MZ-2000_SD-NiseRamFile-?tab=readme-ov-file#font%E5%A4%89%E6%9B%B4%E6%A9%9F%E8%83%BD
 
