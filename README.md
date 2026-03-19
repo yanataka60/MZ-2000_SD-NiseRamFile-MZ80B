@@ -28,6 +28,7 @@ MZ-2000_SD+偽RAMFILE複合ボードからテキスト、グラフィックと�
 
 ## 回路図
 MZ-2000_SD+偽RAMFILE複合ボードを参照してください。
+
 https://github.com/yanataka60/MZ-2000_SD-NiseRamFile-?tab=readme-ov-file#%E5%9B%9E%E8%B7%AF%E5%9B%B3
 
 ## 偽RAMFILE for MZ-2000の書込み
@@ -57,14 +58,17 @@ https://github.com/yanataka60/MZ-2000_SD-NiseRamFile-?tab=readme-ov-file#%E5%9B%
 
 ## MZ-2000_SD BOOT PROGRAMをMZ-1R12 SRAMメモリ 0番バックアップスロットへ書き込み
 MZ-2000_SD+偽RAMFILE複合ボードを参照してください。
+
 https://github.com/yanataka60/MZ-2000_SD-NiseRamFile-?tab=readme-ov-file#mz-2000_sd-boot-program%E3%82%92mz-1r12-sram%E3%83%A1%E3%83%A2%E3%83%AA-0%E7%95%AA%E3%83%90%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%82%B9%E3%83%AD%E3%83%83%E3%83%88%E3%81%B8%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF
 
 ## FONTファイルの書込み
 MZ-2000_SD+偽RAMFILE複合ボードを参照してください。
+
 https://github.com/yanataka60/MZ-2000_SD-NiseRamFile-?tab=readme-ov-file#font%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E6%9B%B8%E8%BE%BC%E3%81%BF
 
 ## Arduinoプログラム
 MZ-2000_SD+偽RAMFILE複合ボードを参照してください。
+
 https://github.com/yanataka60/MZ-2000_SD-NiseRamFile-?tab=readme-ov-file#arduino%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0
 
 ## 拡張機能の使い方
@@ -72,15 +76,22 @@ MZ-2000_SD+偽RAMFILE複合ボードを参照してください。
 
 ### MZ-2000_SDの起動
 MZ-2000_SD+偽RAMFILE複合ボードを参照してください。
+
 https://github.com/yanataka60/MZ-2000_SD-NiseRamFile-?tab=readme-ov-file#mz-2000_sd%E3%81%AE%E8%B5%B7%E5%8B%95
 
 ### EMM1エミュレータ
+MZ-2000_SD+偽RAMFILE複合ボードを参照してください。
+
 https://github.com/yanataka60/MZ-2000_SD-NiseRamFile-?tab=readme-ov-file#emm1%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF
 
 ### 漢字・辞書ROM MZ-1R13
+MZ-2000_SD+偽RAMFILE複合ボードを参照してください。
+
 https://github.com/yanataka60/MZ-2000_SD-NiseRamFile-?tab=readme-ov-file#%E6%BC%A2%E5%AD%97%E8%BE%9E%E6%9B%B8rom-mz-1r13
 
 ### FONT変更機能
+MZ-2000_SD+偽RAMFILE複合ボードを参照してください。
+
 https://github.com/yanataka60/MZ-2000_SD-NiseRamFile-?tab=readme-ov-file#font%E5%A4%89%E6%9B%B4%E6%A9%9F%E8%83%BD
 
 ## MZ-2000、MZ-2500の2000モードでの使用について
