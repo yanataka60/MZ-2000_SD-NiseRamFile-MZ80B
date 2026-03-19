@@ -42,8 +42,6 @@ https://github.com/yanataka60/MZ-2000_SD-NiseRamFile-?tab=readme-ov-file#%E5%9B%
 ### GRAM1のみ装着あり(GRAM2エミュレート)
 　テストしてみましたが正常に動作しませんでした。MZ-80Bが対応不可能なのか、バグなのか特定できていません。GRAM1を除去して「GRAM1、GRAM2とも装着無し」のniseramfile_No_GRAM.uf2を使ってください。
 
-　MZ-2000、MZ-2500(80B、2000、2500モードとも)では正常に動作しません。
-
 ### GRAM1、GRAM2とも装着無し(GRAM1、GRAM2エミュレート)
 　RP2350Bフォルダにあるniseramfile_No_GRAM.uf2をRP2350Bマイコンボードに書き込みます。
 
