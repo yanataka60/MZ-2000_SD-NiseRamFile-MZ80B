@@ -37,6 +37,8 @@ https://github.com/yanataka60/MZ-2000_SD-NiseRamFile-?tab=readme-ov-file#%E5%9B%
 ### GRAM1、GRAM2とも装着あり
 　RP2350Bフォルダにあるniseramfile.uf2をRP2350Bマイコンボードに書き込みます。
 
+　MZ-2000、MZ-2500の2000モードで使用した場合、MZ-2000_SD機能、EMM1エミュレータ、漢字ROMボードエミュレータは問題なく動作しますが、VGA出力機能はVRAM、GRAMのアクセス方法がMZ-80Bと異なるためまともな表示となりません。
+
 ### GRAM1のみ装着あり(GRAM2エミュレート)
 　RP2350Bフォルダにあるniseramfile_GRAM1_Only.uf2をRP2350Bマイコンボードに書き込みます。
 
@@ -93,9 +95,6 @@ https://github.com/yanataka60/MZ-2000_SD-NiseRamFile-?tab=readme-ov-file#%E6%BC%
 MZ-2000_SD+偽RAMFILE複合ボードを参照してください。
 
 https://github.com/yanataka60/MZ-2000_SD-NiseRamFile-?tab=readme-ov-file#font%E5%A4%89%E6%9B%B4%E6%A9%9F%E8%83%BD
-
-## MZ-2000、MZ-2500の2000モードでの使用について
-　MZ-2000_SD機能、EMM1エミュレータ、漢字ROMボードエミュレータはMZ-2000、MZ-2500の2000モードでも問題なく動作しますが、VGA出力機能はVRAM、GRAMのアクセス方法がMZ-80Bと異なるためまともな表示となりません。
 
 ## 開発環境、使用ライブラリなど
 　開発環境は、Visual Studio Codeです。
