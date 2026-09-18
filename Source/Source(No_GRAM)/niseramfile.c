@@ -474,6 +474,10 @@ static inline void io_write(uint16_t address, uint8_t data)
         case 0x8c:
             emmpage=data&0x1f;
             flash_command=0x30000000+(data&0x1f);        
+            // FLASHからEMMのmemcpy完了を待つ
+            while(flash_command != 0) {
+                tight_loop_contents();
+            }
             return;
 
         case 0x8d:
@@ -724,7 +728,7 @@ void __not_in_flash_func(main_core1)(void) {
 
             }
 
-			gpio_put(32,true);
+//			gpio_put(32,true);
             if(response) {
 
                 // Set GP0-7 to OUTPUT
@@ -732,6 +736,8 @@ void __not_in_flash_func(main_core1)(void) {
                 gpio_set_dir_masked(0xff,0xff);
 
                 gpio_put_masked(0xff,data);
+
+				gpio_put(32,true);
 
                 // Wait while RD# is low
 
@@ -749,6 +755,8 @@ void __not_in_flash_func(main_core1)(void) {
             	
 
             } else {
+
+				gpio_put(32,true);
 
                 // Wait while RD# is low
                 control=0;
